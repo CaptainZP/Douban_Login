@@ -1,2 +1,4 @@
 # douban_login
 python使用requests模拟豆瓣登陆
+
+使用了BeautifulSoup解析html，验证码采用了下载图片人工识别输入的方法
